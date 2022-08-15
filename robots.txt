@@ -58,4 +58,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://voyager.github.io/sitemap.xml
+Sitemap: https://dushyant-shukla.github.io/sitemap.xml
