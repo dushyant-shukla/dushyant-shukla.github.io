@@ -1,9 +1,9 @@
 # Showcase
 
 
-#{{< showcase "Theme Documentation - Basics" "Discover what the Hugo - DoIt theme is all about and the core-concepts behind it." "/theme-documentation-basics/featured-image.webp" "/#theme-documentation-basics/" >}}#
+{{< showcase title="A primer on DocFx" summary="A cooler way of documenting you .NET API" image="/docfx_primer/doc_fx_featured_image.gif" link="/docfx_primer" >}}
 
-#{{< showcase "Theme Documentation - Content" "Find out how to create and organize your content quickly and intuitively in DoIt theme." "/theme-documentation-content/featured-image#.webp" "/#theme-documentation-content/" >}}#
+{{< showcase title="A primer on DocFx: Part-ii" summary="A cooler way of documenting you .NET API" image="/docfx_primer_ii/doc_fx_featured_image.gif" link="/docfx_primer_ii" >}}
 
-#{{< showcase "Theme Documentation - Extended Shortcodes" "DoIt theme provides multiple shortcodes on top of built-in ones in Hugo." "/theme-documentation-extended-shortcodes/featured-image.webp" "/#theme-documentation-extended-shortcodes/" >}}#
+{{< showcase title="A primer on DocFx: Part-iii" summary="A cooler way of documenting you .NET API" image="/docfx_primer_iii/doc_fx_featured_image.gif" link="/docfx_primer_iii" >}}
 
