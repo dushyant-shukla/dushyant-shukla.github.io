@@ -118,7 +118,8 @@ enableEmoji = true
         pre = '<i class="fas fa-file"></i>'
         post = ""
         name = "Resume"
-        url = "https://dushyant-shukla.github.io/resume/"
+        #url = "https://dushyant-shukla.github.io/resume/"
+        url = "/resume/"
         title = ""
         weight = 9
       [[languages.en.menu.main]]
