@@ -1,11 +1,11 @@
 ---
 title: "A primer on DocFx"
-subtitle: "DocFx is a static website generator for .NET API documentation"
+subtitle: "A cooler way of documenting your .NET API"
 date: 2022-08-14T14:26:10-07:00
 lastmod: 2022-08-14T14:26:10-07:00
-draft: true
+draft: false
 authors: ["Dushyant"]
-description: "A cooler way of documenting you .NET API"
+description: "A cooler way of documenting your .NET API"
 
 tags: ["how-to", "primer", ".NET", "DocFx"]
 categories: ["archive", "DocFx"]
@@ -31,8 +31,4 @@ license: ""
 
 Let's cover the basics of API document generation with DocFx and probably best practices.
 
-Let's begin!!!!!!
-
-Let's try again!!!!
-
-Let's do it again!!!!!
+DocFx is a static website generator for .NET API documentation.
