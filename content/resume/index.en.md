@@ -2,6 +2,7 @@
 title: "Resume"
 date: 2022-08-14T04:42:13-07:00
 draft: false
+comment: false
 ---
 
 <div>
