@@ -118,7 +118,7 @@ enableEmoji = true
         pre = '<i class="fas fa-file"></i>'
         post = ""
         name = "Resume"
-        url = "resume/resume_game_graphics_programmer.pdf"
+        url = "https://github.com/dushyant-shukla/dushyant-shukla.github.io/raw/8eaf4e802442e6c53fc4e156e1f899ac9e0aa98a/resume/resume_game_graphics_programmer.pdf"
         title = ""
         weight = 9
       [[languages.en.menu.main]]
