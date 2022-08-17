@@ -5,7 +5,7 @@ draft: false
 comment: false
 ---
 
-{{< image src="about_me_3.gif" width="auto" >}}
+{{< image src="about_me_3.gif" width="100%" >}}
 
 {{< style "text-align:justify;" >}}
 I am a budding game-developer looking for opportunities in graphics, engine & tools programming; a pragmatic Software Engineer with extensive knowledge indeveloping applications with open-source technologies. I enjoy the journey fromvague ideas to a fully realized products. Achieving common goals and the team’spriorities are my guiding principles.
