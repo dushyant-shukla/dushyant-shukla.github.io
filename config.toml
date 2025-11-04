@@ -196,13 +196,14 @@ enableEmoji = true
           title = ""
           # subtitle shown in home page
           #subtitle = "A Clean, Elegant but Advanced Hugo Theme"
-          subtitle = '[](){ std::cout << "Hello! This is Dushyant!" << std::endl; }();'
+          subtitle = '<i>[](){ std::cout << "Hello! This is Dushyant!" << std::endl; }();</i>'
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
-          disclaimer = '<i>“I solemnly swear that I am up to no good." ― J.K. Rowling</i>'
+          # disclaimer = '<i>“I solemnly swear that I am up to no good." ― J.K. Rowling</i>'
+          disclaimer = '<b>Software Engineer • Real-Time Simulation • Engine & Tools Development</b>'
         # Home page posts
         [languages.en.params.home.posts]
           enable = true

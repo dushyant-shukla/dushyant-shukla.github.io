@@ -5,15 +5,32 @@ draft: false
 comment: false
 ---
 
-{{< image src="about_me_3.gif" width="100%" >}}
-
-{{< style "text-align:justify;" >}}
-I am a budding game-developer looking for opportunities in graphics, engine & tools programming; a pragmatic Software Engineer with extensive knowledge indeveloping applications with open-source technologies. I enjoy the journey fromvague ideas to a fully realized products. Achieving common goals and the team’spriorities are my guiding principles.
-
-
-I am currently pursuing Masters of Science in Computer Science at DigiPen Institute of Technology, honing my skills in the field of Computer Graphics and game development (expecting graduation in April 2021). My main interests lie in real-time rendering techniques, game engine and tools development. Apart from work, I am a die-hard Manchester City FC fan, and in my liesure time, I like to catch-up on football (soccer). Unsurprisingly FIFA, and Football Manager are my favourite video games. I also delve into portrait sketching from time to time.
-
-
-While you are here, do have a look at my work. I would love the opportunity to discuss the projects I have worked on, the technologies, and the projects that interest me. Otherwise, hit me at Dushyant#7596 on Discord, and we can chat about all things space, football, Harry Potter, and Batman.
+{{< style "text-align:center;" >}}
+{{< image src="avatar-modified.png" width="15%" height="15%" >}}
 {{< /style >}}
 
+{{< style "text-align:justify;" >}}
+Hi, I’m Dushyant. I'm a software engineer specializing in real-time interactive simulation systems and game-engine development.
+I enjoy working close to the metal: building rendering pipelines, optimizing performance, modernizing legacy systems, and designing the internal mechanics that make complex simulations run smoothly and efficiently.
+
+Currently, I develop robotic surgery training simulations at Mimic Technologies, Inc. (Surgical Science Sweden AB). My work spans from engine-level systems to high-level scenario development, creating realistic simulated virtual environments where medical practioners can safely practice and refine surgical skills and precision. Along the way, I’ve led efforts to modernize legacy codebases, improve runtime performance, and build real-time data pipelines for capturing high‑resolution surgical performance telemetry.
+
+Before moving into simulation, I worked on distributed software systems building large-scale digital asset workflows and cost-efficient cloud native architectures for enterprise applications.
+
+<!-- I enjoy roles where I can:
+* Work with real-time systems, and engine architecture
+* Collaborate with multidisciplinary teams
+* Learn and evolve alongside the system I’m building -->
+
+Outside of work, I design and develop my own game engine (**[Cassini](https://dushyant-shukla.github.io/cassini/)**) where I explore the latest and greatest of technology and techniques from the world of game engines. Recent features include a metallic-roughness PBR pipeline, bindless rendering, and asynchronous resource loading.
+
+# A bit more about me...
+When I’m not writing code, I’m probably watching football (soccer), and I love keeping up with matches and tactics. Unsurprisingly, FIFA and Football Manager are my go-to games. I also enjoy portrait sketching when I want a quiet, focused creative break.
+
+# Say hello... :wave:
+Interested in simulation, game engines, rendering, or just want to chat?
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/dushyantshukla/)**, email me at **<dushyantshukla@outlook.com>**, or join me on **[Discord](https://discord.com/users/50811103750625689)**.
+And yes, I would absolutely love to talk about space, soccer, Harry Potter, or Batman. :smile:
+
+Feel free to explore my work **[here](https://dushyant-shukla.github.io/showcase)**. I’d love to talk about the ideas behind them, the technology choices, and what I’m building next.
+{{< /style >}}

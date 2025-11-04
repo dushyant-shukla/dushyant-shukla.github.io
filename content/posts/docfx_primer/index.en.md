@@ -3,7 +3,7 @@ title: "A primer on DocFx"
 subtitle: "A cooler way of documenting your .NET API"
 date: 2022-08-14T14:26:10-07:00
 lastmod: 2022-08-14T14:26:10-07:00
-draft: false
+draft: true
 authors: ["Dushyant"]
 description: "A cooler way of documenting your .NET API"
 
