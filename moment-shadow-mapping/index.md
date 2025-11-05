@@ -3,7 +3,9 @@
 
 <!--more-->
 
-Moment Shadow Mapping (MSM) is a rendering technique for rendering soft-shadows in real-time. This project was my attempt at implementing the [Hamburger 4MSM paper](https://cg.cs.uni-bonn.de/backend/v1/files/publications/MomentShadowMapping.pdf) for the *CS-562: Advanced Real-Time Rendering Techniques* coursework I took during my time at *DigiPen Institute of Technology*.
+Moment Shadow Mapping (MSM) is a rendering technique for rendering soft-shadows in real-time. This project was my attempt at implementing the [Hamburger 4MSM paper](https://cg.cs.uni-bonn.de/backend/v1/files/publications/MomentShadowMapping.pdf) for the <i>**CS-562: Advanced Real-Time Rendering Techniques**</i> coursework I took during my time at *[DigiPen Institute of Technology](https://www.digipen.edu/)*.
+
+The renderer for the project was written using **C++** and **OpenGL**.
 
 ## An overview of the technique
 
