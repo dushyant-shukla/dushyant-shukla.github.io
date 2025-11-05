@@ -27,4 +27,8 @@ The engine is written in C++. I am still working on the core systems (sub-system
 
 </br>
 
-{{< figure src="cassini-async-loading.gif" title="Asynchronous Resource Loading In Action (slowed down for capturing the effect)" width="75%" >}}
+{{< figure src="cassini-async-loading.gif" title="Asynchronous Resource Loading In Action (slowed down for demonstrating the effect)" width="75%" >}}
+
+</br>
+
+---

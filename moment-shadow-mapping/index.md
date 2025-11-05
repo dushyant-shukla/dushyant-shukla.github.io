@@ -19,11 +19,11 @@ The technique builds on the ubiquitous two-pass shadow map algorithm, where:
 
 ## Results
 
-{{< figure src="msm_shadowmap_moments.gif" title="Shadow Map: 4 Different Moments" width="50%" >}}
+{{< figure src="msm_shadowmap_moments.gif" title="MSM: Capturing four different moments" width="50%" >}}
 
 </br>
 
-{{< figure src="msm_shadowmap_blurred.gif" title="Shadow Map: Blurring" width="50%" >}}
+{{< figure src="msm_shadowmap_blurred.gif" title="MSM: Blurring the shadow map" width="50%" >}}
 
 </br>
 
@@ -43,7 +43,7 @@ The technique builds on the ubiquitous two-pass shadow map algorithm, where:
 
 </br>
 
-| GAUSSIAN BLUR PASSES = 2, KERNEL SIZE = 5 | GAUSSIAN BLUR PASSES = 10, KERNEL SIZE = 11 |
+| Gaussian Blur Passes = 2, Kernel Size = 5 | Gaussian Blur Passes = 10, Kernel Size = 11 |
 | ------ | ----------- |
 | {{< figure src="msm-pass-2-size-kernel-5.png" title="" width="" >}}   | {{< figure src="msm-pass-10-size-kernel-11.png" title="" width="" >}} |
 

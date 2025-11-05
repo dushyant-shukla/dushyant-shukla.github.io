@@ -13,3 +13,7 @@ The project demosntrates skeletal animation using a custom 3D renderer I wrote u
 </br>
 
 {{< youtube FVKn4v7On_8 >}}
+
+</br>
+
+---
