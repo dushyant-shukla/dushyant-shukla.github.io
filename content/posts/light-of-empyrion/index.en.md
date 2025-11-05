@@ -60,3 +60,7 @@ As an engine and gameplay programmer, the following were my main contributions:
 </br>
 
 The source code is available at *https://github.com/dushyant-shukla/light-of-empyrion*.
+
+</br>
+
+---
