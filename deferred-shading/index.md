@@ -32,7 +32,7 @@ Deferred shading can provide significant optimizations for a scene with many lig
 
 </br>
 
-{{< figure src="scene-point-lights.png" title="Scene lighted with 3578 point lights while main t aining a framerate of ~25 FPS" width="80%" >}}
+{{< figure src="scene-point-lights.png" title="Scene lighted with 3578 point lights while maintaining a framerate of ~25 FPS" width="80%" >}}
 
 </br>
 
