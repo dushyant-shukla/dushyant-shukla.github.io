@@ -21,7 +21,7 @@ The technique builds on the ubiquitous two-pass shadow map algorithm, where:
 
 ## Results
 
-{{< figure src="msm_shadowmap_moments.gif" title="MSM: Capturing four different moments" width="50%" >}}
+{{< figure src="msm_shadowmap_moments.gif" title="MSM: Capturing four different moments in shadow map" width="50%" >}}
 
 </br>
 
