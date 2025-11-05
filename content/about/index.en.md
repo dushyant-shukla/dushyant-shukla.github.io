@@ -6,7 +6,7 @@ comment: false
 ---
 
 {{< style "text-align:center;" >}}
-{{< image src="avatar-modified.png" width="15%" height="15%" >}}
+<a href="" title=""><img src="avatar-modified.png" width="15%" height="15%"></img></a>
 {{< /style >}}
 
 {{< style "text-align:justify;" >}}
@@ -15,14 +15,14 @@ I enjoy working close to the metal: building rendering pipelines, optimizing per
 
 Currently, I develop robotic surgery training simulations at Mimic Technologies, Inc. (Surgical Science Sweden AB). My work spans from engine-level systems to high-level scenario development, creating realistic simulated virtual environments where medical practioners can safely practice and refine surgical skills and precision. Along the way, I’ve led efforts to modernize legacy codebases, improve runtime performance, and build real-time data pipelines for capturing high‑resolution surgical performance telemetry.
 
-Before moving into simulation, I worked on distributed software systems building large-scale digital asset workflows and cost-efficient cloud native architectures for enterprise applications.
+Before moving into simulation, I worked on distributed software systems building digital asset management workflows and cost-efficient cloud native architectures for enterprise applications.
 
 <!-- I enjoy roles where I can:
 * Work with real-time systems, and engine architecture
 * Collaborate with multidisciplinary teams
 * Learn and evolve alongside the system I’m building -->
 
-Outside of work, I design and develop my own game engine (**[Cassini](https://dushyant-shukla.github.io/cassini/)**) where I explore the latest and greatest of technology and techniques from the world of game engines. Recent features include a metallic-roughness PBR pipeline, bindless rendering, and asynchronous resource loading.
+Outside of work, I design and develop my own game engine (**[Cassini](https://dushyant-shukla.github.io/cassini/)**), as a way to explore new rendering methods, engine architecture patterns, and emerging real-time simulation techniques.
 
 # A bit more about me...
 When I’m not writing code, I’m probably watching football (soccer), and I love keeping up with matches and tactics. Unsurprisingly, FIFA and Football Manager are my go-to games. I also enjoy portrait sketching when I want a quiet, focused creative break.
