@@ -33,7 +33,7 @@ We can see the effect in work in the picture above. Turning on the effect adds a
 
 The project was inspired by a article from Nvidia on [real-time glow](https://developer.nvidia.com/gpugems/gpugems/part-iv-image-processing/chapter-21-real-time-glow) and implemented for the <i>**CS-562: Advanced Real-Time Rendering Techniques**</i> coursework I took at *[DigiPen Institute of Technology](https://www.digipen.edu/)*.
 
-The renderer for the project was written using **C++** and **OpenGL**.
+The renderer for the project was written using **C++**, **OpenGL**, and **GLSL**.
 
 ## An overview of the technique
 
