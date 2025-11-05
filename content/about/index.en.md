@@ -28,7 +28,7 @@ Outside of work, I design and develop my own game engine (**[Cassini](https://du
 When I’m not writing code, I’m probably watching football (soccer), and I love keeping up with matches and tactics. Unsurprisingly, FIFA and Football Manager are my go-to games. I also enjoy portrait sketching when I want a quiet, focused creative break.
 
 # Say hello... :wave:
-Interested in simulation, game engines, rendering, or just want to chat?
+Interested in software engineering, simulation, game engines, rendering, or just want to chat?
 Connect with me on **[LinkedIn](https://www.linkedin.com/in/dushyantshukla/)**, email me at **<dushyantshukla@outlook.com>**, or join me on **[Discord](https://discord.com/users/50811103750625689)**.
 And yes, I would absolutely love to talk about space, soccer, Harry Potter, or Batman. :smile:
 

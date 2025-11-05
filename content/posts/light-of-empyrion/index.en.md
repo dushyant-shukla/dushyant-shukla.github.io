@@ -18,7 +18,7 @@ featuredImage: "light-of-empyrion.gif"
 featuredImagePreview: ""
 
 toc:
-  enable: false
+  enable: true
 math:
   enable: false
 lightgallery: false
@@ -38,6 +38,8 @@ The game was written using a custom game-engine written from scratch using **C++
 </br>
 <!-- {{ video src="/videos/light-of-empyrion.mp4" type="video/mp4" preload="auto" }} -->
 
+## Gameplay
+
 Catch a glimpse of the gameplay below:
 
 </br>
@@ -47,11 +49,15 @@ Catch a glimpse of the gameplay below:
 </br>
 </br>
 
+## Credits
+
 I worked on the game project as part of a four member team:
 
 {{< figure src="credits_786.png" title="Light of Empyrion (Credits)" >}}
 
 </br>
+
+## My contributions
 
 As an engine and gameplay programmer, the following were my main contributions:
 

@@ -25,13 +25,16 @@ lightgallery: false
 license: ""
 ---
 
-Hey hi, how is it going?
-
 <!--more-->
 
-<!-- </br> -->
+</br>
 
-The project demosntrates skeletal animation using a custom 3D renderer I wrote using C++ programming language and Vulkan graphics API.
+
+The project demonstrates  skeletal animation with keyframes.
+
+I worked on the project as part of the <i>**CS-560: Advanced Animation and Modeling I**</i> coursework I took at *[DigiPen Institute of Technology](https://www.digipen.edu/)*.
+
+The project uses a custom 3D renderer I wrote using **C++**, **Vulkan**, and **GLSL**.
 
 
 </br>
