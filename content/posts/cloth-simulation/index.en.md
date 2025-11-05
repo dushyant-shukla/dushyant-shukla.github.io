@@ -18,7 +18,7 @@ featuredImage: "cloth.gif"
 featuredImagePreview: ""
 
 toc:
-  enable: false
+  enable: true
 math:
   enable: false
 lightgallery: false
@@ -29,17 +29,19 @@ license: ""
 
 </br>
 
-The project demosntrates simulation of a physically based cloth. Effects of basic external forces such as gravity, and wind forces are exhibited. Intereraction of the cloth with another body is also demonstrated.
+The project demonstrates simulation of a physically based cloth. Effects of basic external forces such as gravity, and wind forces are exhibited. Intereraction of the cloth with another body is also demonstrated.
 
-The project uses a custom 3D renderer I wrote using C++ programming language and Vulkan graphics API.
+I worked on the project as part of the <i>**CS-560: Advanced Animation and Modeling I**</i> coursework I took at *[DigiPen Institute of Technology](https://www.digipen.edu/)*.
 
-# Simulating the Cloth
+The project uses a custom 3D renderer I wrote using **C++** and **Vulkan**.
+
+## Simulating the Cloth
 
 Geometry for the cloth is build using a grid of particles:
 - The arrangement of the particles is triangulated to convert them into a mesh format suitable for rendering through a graphics pipeline.
 - Normals vectors and UV coordinates for the geometry are also calculated during the triangulation process every frame.
 
-# Particle Physics
+## Particle Physics
 
 Every particle in the grid has certain properties such as position, mass, acceleration which define their behavior under the external forces.
 - The change in position of particles is integrated using the Verlet integration.
