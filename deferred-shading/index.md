@@ -17,7 +17,7 @@ The renderer for the project was written using **C++**, **OpenGL**, and **GLSL**
 Deferred shading consists of two passes:
 1. **Geometry Pass:** In this pass, we render the scene once and store all kinds of geometric information from the scene into a collection of textures collectively known as the G-Buffer. These textures can store information such as vertex positions, color information, normal vectors, and more.
 
-{{< figure src="scene-g-buffer.png" title="Contents of G Buffer showing vertex normal (top left), diffuse color (top right), specular color (bottom right), and fragment position (bottom left)" width="80%" >}}
+{{< figure src="scene-g-buffer.png" title="Contents of G Buffer at the end of Geometry Pass" width="80%" >}}
 
 2. **Lighting Pass:** The geometric information stored in the G-Buffer is then retrieved later for use in lighting calculations in this second pass. In lighting pass, we render the scene with a FULL SCREEN QUAD, and perform lighting calculations for each fragment using the information stored in G-Buffer.
 At this point, it should be noted that by the time information is written into the G-Buffer, the depth test has already been performed. Therefore, any fragment that ends up in the G-Buffer is the actual fragment information that will be finally displayed for the screen pixel. Thus, for each screen pixel that is processed in the lighting pass, lighting calculations are performed only once.
