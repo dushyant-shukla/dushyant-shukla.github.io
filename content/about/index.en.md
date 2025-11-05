@@ -11,7 +11,7 @@ comment: false
 
 {{< style "text-align:justify;" >}}
 Hi, I’m Dushyant. I'm a software engineer specializing in real-time interactive simulation systems and game-engine development.
-I enjoy working close to the metal: building rendering pipelines, optimizing performance, modernizing legacy systems, and designing the internal mechanics that make complex simulations run smoothly and efficiently.
+I enjoy working close to the metal: building rendering pipelines, optimizing performance, and designing the internal mechanics that make complex simulations run smoothly and efficiently.
 
 Currently, I develop robotic surgery training simulations at Mimic Technologies, Inc. (Surgical Science Sweden AB). My work spans from engine-level systems to high-level scenario development, creating realistic simulated virtual environments where medical practioners can safely practice and refine surgical skills and precision. Along the way, I’ve led efforts to modernize legacy codebases, improve runtime performance, and build real-time data pipelines for capturing high‑resolution surgical performance telemetry.
 
