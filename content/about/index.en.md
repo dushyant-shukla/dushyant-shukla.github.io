@@ -12,7 +12,7 @@ comment: false
 {{< style "text-align:justify;" >}}
 Hi, I’m Dushyant. I'm a software engineer specializing in real-time interactive simulation systems and game-engine development.
 
-Currently, I develop robotic surgery training simulations at Mimic Technologies, Inc. (Surgical Science Sweden AB). My work spans from engine-level systems to high-level scenario development, creating realistic simulated virtual environments where medical practioners can safely practice and refine surgical skills and precision. Along the way, I’ve led efforts to modernize legacy codebases, improve runtime performance, and build real-time data pipelines for capturing high‑resolution surgical performance telemetry.
+Currently, I develop robotic surgery training simulations at Mimic Technologies, Inc. (Surgical Science Sweden AB). My work spans from engine-level systems to high-level scenario development, creating realistic simulated virtual environments where medical practitioners can safely practice and refine surgical skills and precision. Along the way, I’ve led efforts to modernize legacy codebases, improve runtime performance, and build real-time data pipelines for capturing high‑resolution surgical performance telemetry.
 
 Before moving into simulation, I worked on distributed software systems building digital asset management workflows and cost-efficient cloud native architectures for enterprise applications.
 
@@ -24,7 +24,7 @@ Before moving into simulation, I worked on distributed software systems building
 Outside of work, I design and develop my own game engine (**[Cassini](https://dushyant-shukla.github.io/cassini/)**), as a way to explore new rendering methods, engine architecture patterns, and emerging real-time simulation techniques.
 
 # A bit more about me...
-When I’m not writing code, I’m probably watching football (soccer), and I love keeping up with matches and tactics. Unsurprisingly, FIFA and Football Manager are my go-to games. I also enjoy portrait sketching when I want a quiet, focused creative break.
+When I’m not writing code, I’m probably watching football (soccer), and I love keeping up with matches and tactics. Unsurprisingly, FIFA and Football Manager are my go-to video games. I also enjoy portrait sketching when I want a quiet, focused creative break.
 
 # Say hello... :wave:
 Interested in software engineering, simulation, game engines, rendering, or just want to chat?
