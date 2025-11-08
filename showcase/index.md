@@ -8,7 +8,7 @@
 <!-- {{< showcase title="A primer on DocFx: Part-iii" summary="A cooler way of documenting you .NET API" image="/docfx_primer_iii/doc_fx_featured_image.gif" link="/docfx_primer_iii" >}} -->
 
 <!-- Cassini Engine -->
-{{< showcase title="Cassini Engine" summary="A custum game engine..." image="/cassini/Cassini_iii.png" link="/cassini" >}}
+{{< showcase title="Cassini Engine" summary="A custom game engine..." image="/cassini/Cassini_iii.png" link="/cassini" >}}
 
 <!-- Light of Empyrion -->
 {{< showcase title="Light of Empyrion" summary="Defending the kingdom of Empyrion..." image="/light-of-empyrion/light-of-empyrion.gif" link="/light-of-empyrion" >}}
