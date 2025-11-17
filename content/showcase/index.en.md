@@ -12,7 +12,7 @@ draft: false
 <!-- {{< showcase title="A primer on DocFx: Part-iii" summary="A cooler way of documenting you .NET API" image="/docfx_primer_iii/doc_fx_featured_image.gif" link="/docfx_primer_iii" >}} -->
 
 <!-- Surgical Robotics Simulation @ SuS -->
-<!-- {{< showcase title="Surgical Robotics Simulation" summary="Helping improve patient safety and healthcare @ SurgicalScience..." image="/surgical-robotics-simulation/pick-and-place.png" link="/surgical-robotics-simulation" >}} -->
+{{< showcase title="Surgical Robotics Simulation" summary="Helping improve patient safety and healthcare @ SurgicalScience..." image="/surgical-robotics-simulation/pick-and-place.png" link="/surgical-robotics-simulation" >}}
 
 <!-- Cassini Engine -->
 {{< showcase title="Cassini Engine" summary="An R&D project to experiment with advanced techniques in computer graphics & engine architectures..." image="/cassini/Cassini_iii.png" link="/cassini" >}}
