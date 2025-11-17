@@ -12,6 +12,8 @@ comment: false
 {{< style "text-align:justify;" >}}
 Hi, I’m Dushyant. I'm a software engineer specializing in real-time interactive simulation systems and game-engine development.
 
+I earned my M.S. in Computer Science from *[DigiPen Institute of Technology](https://www.digipen.edu/)*, where I focused on computer graphics and real-time interactive systems - foundational skills that continue to shape the simulation and engine work I do today.
+
 Currently, I develop robotic surgery training simulations at Mimic Technologies, Inc. (Surgical Science Sweden AB). My work spans from engine-level systems to high-level scenario development, creating realistic simulated virtual environments where medical practitioners can safely practice and refine surgical skills and precision. Along the way, I’ve led efforts to modernize legacy codebases, improve runtime performance, and build real-time data pipelines for capturing high‑resolution surgical performance telemetry.
 
 Before moving into simulation, I worked on distributed software systems building cost-efficient cloud native architectures for enterprise applications.
