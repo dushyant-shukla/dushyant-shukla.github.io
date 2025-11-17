@@ -3,7 +3,7 @@
 
 <!--more-->
 
-Light of Empyrion is a 2D tower-defense game developed for <i>**GAM-541: Master's Game Project**</i> coursework as part of the Master's of Computer Science program at *[DigiPen Institute of Technology](https://www.digipen.edu/)* between <i>**Jan. 2020 - Apr. 2020**</i>.
+Light of Empyrion is a 2D tower-defense game developed for <i>**GAM-541: Master's Game Project**</i> coursework as part of the Master's in Computer Science program at *[DigiPen Institute of Technology](https://www.digipen.edu/)* between <i>**January 2020 - April 2020**</i>.
 
 The game was written using a custom game-engine written from scratch using **C++** and **OpenGL**.
 
