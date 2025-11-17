@@ -10,7 +10,7 @@ Hi, I’m Dushyant. I'm a software engineer specializing in real-time interactiv
 
 Currently, I develop robotic surgery training simulations at Mimic Technologies, Inc. (Surgical Science Sweden AB). My work spans from engine-level systems to high-level scenario development, creating realistic simulated virtual environments where medical practitioners can safely practice and refine surgical skills and precision. Along the way, I’ve led efforts to modernize legacy codebases, improve runtime performance, and build real-time data pipelines for capturing high‑resolution surgical performance telemetry.
 
-Before moving into simulation, I worked on distributed software systems building digital asset management workflows and cost-efficient cloud native architectures for enterprise applications.
+Before moving into simulation, I worked on distributed software systems building cost-efficient cloud native architectures for enterprise applications.
 
 <!-- I enjoy roles where I can:
 * Work with real-time systems, and engine architecture
